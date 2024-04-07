@@ -7,6 +7,7 @@ Instacart, an online grocery store, already has outstanding sales, but they want
 * They also want to know whether people spend the most money at particular times of the day, as this might inform the type of products they advertise.
 * Instacart has a lot of products with different price tags. Marketing and sales want more straightforward price range groupings to help direct their efforts.
 * Are there certain types of products that are more popular than others? The marketing and sales teams want to know which departments have the highest frequency of product orders.
+
 The marketing and sales teams are particularly interested in their system's different types of customers and how their ordering behaviors differ. For example:
 * What's the distribution among users regarding their brand loyalty (i.e., how often do they return to Instacart)?
 * Are there differences in ordering habits based on a customer's loyalty status?
